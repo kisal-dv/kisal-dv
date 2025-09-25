@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/kisal-dv">Kisal Angira</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/kisal-dv">Sahan Nirmala</a> 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
 <br>
